@@ -11,28 +11,20 @@
 #nav {
 	margin-top:10px;
 }
+#nav h5 {
+	text-align:right;
+	margin-right:25px;
+}
 #nav ul {
 	margin-top:107px;
 }
 #nav li {
 	display:inline;
 }
-#nav h5 {
-	text-align:right;
-	margin-right:25px;
-}
-#nav a {
-	text-decoration:none;
-}
-#nav a:hover {
-	border-top:2px solid #a3d916;
-	border-bottom:2px solid #a3d916;
+.menu-image {
+    width:auto;
+    height:24px;
 }
 #header {
 	text-align:center;
-}
-img {
-	max-width: 100%;
-	height: auto;
-	width: auto\9; /* ie8 */
 }
