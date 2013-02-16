@@ -19,6 +19,7 @@
 	margin-top:107px;
 }
 #nav li {
+    text-decoration:underline;
 	display:inline;
 }
 .menu-image {
